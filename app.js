@@ -1,1 +1,3 @@
-console.log('THis is my first Repo!');
+const username = "Shashank";
+
+console.log(username);
